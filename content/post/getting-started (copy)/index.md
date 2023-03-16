@@ -4,11 +4,12 @@ subtitle: Здесь вы можете узнать итоги моей прош
 
 # Summary for listings and search engines
 summary: Здесь вы можете узнать итоги моей прошедшей недели, чему я научилась и над чем работал.
+
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2023-12-13T00:00:00Z'
+date: '2020-12-13T00:00:00Z'
 
 # Date updated
 lastmod: '2023-03-13T00:00:00Z'
@@ -52,5 +53,7 @@ categories:
 ## Итоги
 
 В результате выполнения двух лабораторных работ (5 и 6) я научилась работать с файловой системой Linux, а также ознакомилась с инструментами поиска файлов и фильтрации текстовых данных. Узнала, что такое перенаправление ввода/выводы и что такое конвейер. Продолжила освоение работы с терминалом Linux, изучение новых команд.
+
+
 
 Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.
