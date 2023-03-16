@@ -75,6 +75,6 @@ email: ''
 highlight_name: true
 ---
 
-Aladi Prince .C is a 1st year undergraduate student of RUDN. He is studying informatics and information technology. He engages in the school extra curriculum activities and has interests in programming you can say he is on his way to greatness. 
+Aladi Prince .C is a 1st year undergraduate student of RUDN. He is studying informatics and information technology. He engages in the school extra curriculum activities and has an interests in programming you can say he is on his way to greatness. 
 
 {style="text-align: justify;"}
