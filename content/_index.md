@@ -46,17 +46,17 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
+        - name: App Developer
+          description: 70%
+          icon: cube
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: Data Science
+          description: 80%
+          icon: server
+          icon_pack: fas
+        - name: Ethical Hacking 
+          description: 50%
+          icon: user-secret
           icon_pack: fas
   - block: experience
     content:
@@ -70,19 +70,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Student
+          company: RUDN
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Moscow
+          date_start: '2022-10-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              Specialise in:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Mathematical Analysis
+              * Computer Programming
+              * Data Visualisation and Communication
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
@@ -106,13 +106,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://stepik.org/cert/1926016
           date_end: ''
           date_start: '2021-01-25'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: Stepik
+          organization_url: https://stepik.org
+          title: Crash course Russian for communication (А1)
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''

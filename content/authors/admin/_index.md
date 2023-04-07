@@ -22,7 +22,7 @@ organizations:
     url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: A passionate student who is fascinated by the world of programming. With an insatiable curiosity and an unwavering dedication to learning.
 
 # Interests to show in About widget
 interests:
