@@ -61,8 +61,9 @@ categories:
 
 При планировании отчета в средстве "Отчеты" (Reports) можно использовать следующие форматы:
 
-    PDF: Файл Adobe PDF.
+    
     XLS: Формат Microsoft Excel.
+    PDF: Файл Adobe PDF.
     DOC: Формат Microsoft Word.
     CSV: Файл данных с разделителями-запятыми.
 
